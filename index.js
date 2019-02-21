@@ -1,4 +1,4 @@
-var kittens = ["Milo",
+var kittens = [" Milo",
                "Otis",
                "Garfield"] //define your array here
 
